@@ -1,8 +1,10 @@
 # Education Template
-- name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+- name: West Virginia University
+  dates: 2017-2019
+  qualification: BSBA in Management Information Systems
   quote: >
-    Short institution or course description (optional)
+    West Virginia University is a public, land-grant, space-grant, research-intensive university in Morgantown, West Virginia, United States
   description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    I am currently completing my BSBA in Management Information Systems at WVU. Management Information Systems is a major that merges together the business and computer world, acting as a link between the two that can allow businesses to function more efficiently. The major teaches us how to communicate to business leaders effectively, while also focusing on technical proficiency in programming languages such as C# and Python.
+    
+    My current graduation date is December of 2019
