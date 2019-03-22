@@ -36,7 +36,7 @@
         {%- endif -%}
         {%- if site.gitlab_username -%}
           <li>
-            <a target="_blank" href="https://gitlab.{{ site.gitlab_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+            <a target="_blank" href="https://{{ site.gitlab_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
               <i class="fa fa-gitlab" title="Gitlab link"></i>
             </a>
           </li>
