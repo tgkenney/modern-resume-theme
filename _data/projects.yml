@@ -1,8 +1,20 @@
 # Project template
-- name: Project name
-  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+- name: MIST 450 Class Project
+  # link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+  github: https://github.com/tgkenney/FarmSolutionKenney
   quote: >
-    Short overview of the project (optional)
+    This is a web application project for the Grow Ohio Valley Farm collaboration
   description: | # this will include new lines to allow paragraphs
-    Description about the work on/with the project
+    This is a project I am working on for my MIST 450 class for Grow Ohio Valley.
+    It will allow the farmers to track their crops, demand forecasts, and to allow
+    for better collaboration between the member farms 
+    
+# Project template
+#- name: Project name
+#  link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+#  github: Github page for project (eg. sproogen/modern-resume-theme)(optional)
+#  quote: >
+#    Short overview of the project (optional)
+#  description: | # this will include new lines to allow paragraphs
+#    Description about the work on/with the project
+
