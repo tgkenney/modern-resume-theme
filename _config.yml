@@ -47,7 +47,7 @@ more_title: Interests
 more_content: | # this will include new lines to allow paragraphs
   At home, I like to tinker with my homelab.  My lab consists of a old server repurposed with VMWare's ESXi.  This allows me to
   run different virtual machines on top to mess with whatever projects I like.  I currently use it to self host different applications
-  and services like a local NAS, a financial planner, a RSS reader, an asset tracker, and even this website is hosted on it!.
+  and services like a local NAS, a financial planner, a RSS reader, an asset tracker, and even this website is hosted on it!
   
 # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
