@@ -27,8 +27,8 @@ linkedin_username: tgkenney
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
   Hello, my name is Tyler Kenney and I am currently a Management Information Systems student at West Virginia University.
-  This major has a focus on connecting the business world with programming, and we use primarily use the .NET Core and C# to
-  explore web development.
+  This major has a focus on connecting the business world with programming by using the .NET Core and C# to
+  explore web development.  There is a large focus on clear communication with business leaders and users to complete projects.
   Computers have always been my passion and I'm interested in basically every aspect of this field, from troubleshooting hardware,
   to the new realm of cloud computing.  I've even earned a Certified Solutions Architect certification from AWS recently.  I've spent
   a lot of my time learning various technologies that business use everyday including Active Directory, VMWare, Veeam, and Group Policy.
