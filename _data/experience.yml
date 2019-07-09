@@ -1,8 +1,22 @@
 # Experience template
+- company: WVU Medicine
+  ink: https://wvumedicine.org/
+  job_title: IT Intern
+  dates: May 2019 - Present
+  quote: >
+    Improving the health of West Virginians and all we serve through excellence in patient care, research, and education
+  description: | # this will include new lines to allow paragraphs
+    I am currently a summer intern working with WVU Medicine's IT department.  I work with the Midrange teaming providing support
+    for storage clusters and Unix systems forming the backbone of the hospital's records management system.  Some of the projects 
+    I have completed with this team include monitoring and comparing performance of new hardware, integrating RHEL systems into
+    WVUHS' AD environment for central authentication, and building scripts to allow users access to a set of tools to ease the
+    workload on members of the team.
+
+# Experience template
 - company: West Virginia University Foundation
   link: https://www.wvuf.org/
   job_title: Network & Application Support Intern
-  dates: February 2018 - Present
+  dates: February 2018 - May 2019
   quote: >
    The West Virginia University Foundation solicits and administers private support on behalf of WVU. 
   description: | # this will include new lines to allow paragraphs
@@ -13,16 +27,3 @@
     user issues. I used tools such as Windows Active Directory,
     OneLogin, Lansweeper, and Splunk to ensure smooth operation of
     user computer systems.
-
-# Experience template
-- company: Dairy Queen
-  # link: Link to company (optional)
-  job_title: Assistant Manager
-  dates: May 2012 - August 2017
-  quote: >
-    Dairy Queen is a chain of soft serve ice cream and fast-food restaurants
-  description: | # this will include new lines to allow paragraphs
-    While working at Dairy Queen as an Assistant Manager I served customers, 
-    supervised other employees to ensure work was completed, managed and counted 
-    cash registers, and managed the store’s inventory to ensure all items were  
-    stocked and accounted for.
