@@ -26,13 +26,12 @@ linkedin_username: tgkenney
 # about_title: About Me (Use this to override about section title)
 about_profile_image: profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - Lists
-    - Tables
-    - Links
-    - Images
+  Hello, my name is Tyler Kenney and I am currently a Management Information Systems student at West Virginia University.
+  This major has a focus on connecting the business world with programming, and we use primarily use the .NET Core and C# to
+  explore web development.
+  Computers have always been my passion and I'm interested in basically every aspect of this field, from troubleshooting hardware,
+  to the new realm of cloud computing.  I've even earned a Certified Solutions Architect certification from AWS recently.  I've spent
+  a lot of my time learning various technologies that business use everyday including Active Directory, VMWare, Veeam, and Group Policy.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
@@ -48,7 +47,7 @@ more_title: Interests
 more_content: | # this will include new lines to allow paragraphs
   At home, I like to tinker with my homelab.  My lab consists of a old server repurposed with VMWare's ESXi.  This allows me to
   run different virtual machines on top to mess with whatever projects I like.  I currently use it to self host things like a 
-  local NAS, a financial planner, a RSS reader, and even an asset tracker to let me manage my computer equipment.
+  local NAS, a financial planner, a RSS reader, an asset tracker, and even this website is hosted on it!.
   
 # This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
