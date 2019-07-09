@@ -6,7 +6,7 @@
   quote: >
     Improving the health of West Virginians and all we serve through excellence in patient care, research, and education
   description: | # this will include new lines to allow paragraphs
-    I am currently working as a summer intern with WVU Medicine's IT department.  I work with the Midrange teaming providing support
+    I am currently working as a summer intern with WVU Medicine's IT department.  I work with the Midrange team providing support
     for storage clusters and Unix systems forming the backbone of the hospital's records management system.  Some of the projects 
     I have completed with this team include monitoring and comparing performance of new hardware, integrating RHEL systems into
     WVUHS' AD environment for central authentication, and building scripts to allow users access to a set of tools to ease the
